@@ -21,7 +21,7 @@ I'm an AI/ML Engineer passionate about solving real-world problems using deep le
 - 🔍 Built and deployed end-to-end ML workflows on **AWS SageMaker**
 - 📍 Developed a landmark classifier using CNNs & ResNet (75%+ accuracy)
 - 🔍 Build custom image classifier 
-- 📫 How to reach me kamalbatcha3009@gmail.com
+  
 
 ---
 
@@ -68,7 +68,7 @@ I'm an AI/ML Engineer passionate about solving real-world problems using deep le
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamal-batcha&show_icons=true&theme=default" alt="Kamal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalbatcha1&show_icons=true&theme=default" alt="Kamal's GitHub stats" />
   <br>
   <i>Building towards open-source contributions and LLM-based intelligent systems 💡</i>
 </p>
